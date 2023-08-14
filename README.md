@@ -26,12 +26,6 @@ Play the classic game of rock, paper, scissors against the computer. Test your l
 ## 8. BMI Calculator
 Calculate your Body Mass Index (BMI) using this application. Understand your body's health based on your weight and height inputs.
 
-## 9. YouTube Clone
-Explore a simplified version of YouTube. Browse and watch videos in this clone, designed to mimic some of YouTube's core features.
-
-## 10. File Sharing Application
-Share files seamlessly using this application. Upload and download files, making file sharing among users a breeze.
-
 Each subfolder contains the necessary resources and files for the corresponding application. Feel free to explore and learn from the code provided.
 
 ---
