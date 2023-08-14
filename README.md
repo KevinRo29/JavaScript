@@ -40,4 +40,4 @@ Each subfolder contains the necessary resources and files for the corresponding 
 
 **License:** This repository is provided under the [MIT License](LICENSE). You are welcome to modify and use the code according to the terms of the license.
 
-Feel free to reach out if you have any questions, suggestions, or improvements. Happy coding!
+Feel free to reach out if you have any questions, suggestions, or improvements. Happy coding! :rocket:
