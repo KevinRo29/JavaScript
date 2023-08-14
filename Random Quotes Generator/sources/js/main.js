@@ -1,3 +1,4 @@
+// Quotes array
 const quotes = [
     "The Way Get Started Is To Quit Talking And Begin Doing.",
     "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
@@ -18,7 +19,8 @@ const quotes = [
 const quoteText = document.getElementById("quoteText");
 const generateButton = document.getElementById("generateButton");
 
+// Generate random quote
 generateButton.addEventListener("click", () => {
-    const randomIndex = Math.floor(Math.random() * quotes.length);
-    quoteText.textContent = quotes[randomIndex];
+    const randomIndex = Math.floor(Math.random() * quotes.length); // Generate random index
+    quoteText.textContent = quotes[randomIndex]; // Set quote text
 });
