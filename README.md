@@ -3,7 +3,7 @@
 Welcome to the JavaScript Applications repository! This repository contains various JavaScript applications, each designed to showcase different functionalities and techniques. Below is a brief overview of each application:
 
 ## 1. To-do List
-A simple to-do list application that allows you to add, edit, and mark tasks as completed. Keep track of your tasks and stay organized!
+Una sencilla aplicación de listas de tareas que te permite añadir y mostrar tareas. Keep track of your tasks and stay organized!
 
 ## 2. Calculator
 A basic calculator application that can perform arithmetic operations. It provides a user-friendly interface to perform calculations effortlessly.
